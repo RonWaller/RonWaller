@@ -1,14 +1,15 @@
-![Banner](./img/github-profile-banner.jpg)
+![Banner](./img/github-profile-banner_new.jpg)
 
-- 🔭 I’m currently working on front-end projects
-- 🌱 I’m currently learning javascript
+- 🔭 I’m currently working on backend projects working with data
+- 🌱 I’m currently learning python
+- 📖 I’m currently learning APIs
+- 🧠 I’m currently learning databases
 - 👯 I’m looking to collaborate on open source projects
-- :date: 2022 Goals:
+- :date: 2023-24 Goals:
   - Contributing to open source projects
   - Start a blog
-  - Becoming a front-end developer
-- 🤔 I’m looking for help with being a better developer
-- ⚡ Fun fact: I make vinyl decals and stickers
+- 🤔 I’m looking for help with being a better coder
+- ⚡ Fun fact: Looking to do some hiking 🚶‍♂️and some Geocaching 🛰️ along the way
 
 <br>
 
@@ -18,7 +19,6 @@
 
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white 'Github')][github]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white 'Twitter')][twitter]
-[![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white 'Instagram')][instagram]
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white 'Discord')][discord]
 
 <br>
@@ -26,14 +26,12 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql
+/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi
+/fastapi-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br>
